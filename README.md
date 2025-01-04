@@ -1,6 +1,6 @@
-NAME:G.aravind
+# NAME:G.aravind
 
-REG NO:24003742
+# REG NO:24003742
 # EXPERIMENT 2 Control of Relay Using IoT controller
 
 ##  AIM:
