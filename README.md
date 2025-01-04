@@ -1,7 +1,8 @@
-# Control-of-Relay-Using-IoT-controller
 NAME:G.aravind
 
 REG NO:24003742
+EXPERIMENT 2
+# Control-of-Relay-Using-IoT-controller
 
 ##  AIM:
 To control the Relay using Arduino controller
